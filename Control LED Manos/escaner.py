@@ -11,6 +11,7 @@
 # - Otras versiones de Python (3.11, 3.12) y/o mediapipe
 #   DIRECTAMENETE NO LE DABA LA GANA DE FUNCIONAR, las demas librerias no dieron problema con su version al momento de instalarlas
 #
+# - Y el ejecutar el codigo el servidor es el segundo enlace que se mostrara en consola
 # ========================================================================================================
 
 
